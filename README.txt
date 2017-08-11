@@ -1,0 +1,1 @@
+Git repository holding all java projects I have completed
