@@ -1,0 +1,5 @@
+Newspaper
+Maps
+Books
+Item name: Timmeys Adventures, Item Quantity: 5
+Item name: Hallabaloo, Item Quantity: 5
